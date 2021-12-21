@@ -1,0 +1,21 @@
+{
+    "chevalier": {
+        "nom": "le chevalier",
+        "force": 6,
+        "vitesse": 5,
+        "vie": 2,
+        "endurance": 3,
+        "description": "Depuis que la guerre fait rage, les chevaliers sont devenus de lourds guerriers engagés dans differente milice pour combattre d'autres armées. Certains vivent en nomade et combattent les bandes qui pillent et brule les terres et les villages.\nTu en fais parti.",
+        "equipement": {
+            "armes": [
+                "épée",
+                "masse d'armes"
+            ],
+            "protection": [
+                "armure",
+                "cheval"
+            ]
+        },
+        "images": "https://tse3.mm.bing.net/th?id=OIP.yF-J9hn9yqLjdCt9JOq_jwHaHy&pid=Api"
+    }
+}

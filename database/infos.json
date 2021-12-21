@@ -1,0 +1,11 @@
+{
+    "messages":{
+        "champ": "ID|Nombre de messages"
+    },
+    "MAB":{
+        "champ": "ID|Pièces|Gemmes|XP|Niveau|Victoires|Défaites"
+    },
+    "shop":{
+        "champ": "ID|Vicoins|Date"
+    }
+}

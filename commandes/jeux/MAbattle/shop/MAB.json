@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Epée de diamant",
+        "description": "Epée incassable qui permet d'avoir une frape plus puissante",
+        "monnaie": "gemmes",
+        "prix": 15,
+        "add": [
+            "Force: 4",
+            "Vitesse: 0",
+            "Endurance: 0",
+            "Vie: 0"
+        ]
+    },
+    {
+        "name": "Armure d'Acier",
+        "description": "Armure protectrice qui augmente la vie du personnage",
+        "monnaie": "pièces",
+        "prix": 100,
+        "add": [
+            "Force: 0",
+            "Vitesse: 0",
+            "Endurance: 0",
+            "Vie: 5"
+        ]
+    },
+    {
+        "name": "Sac de vivre",
+        "description": "Sac contenant de la nourriture permettant de survivre.",
+        "monnaie": "pièces",
+        "prix": 10,
+        "add": [
+            "Force: 0",
+            "Vitesse: 0",
+            "Endurance: 1",
+            "Vie: 4"
+        ]
+    }
+]

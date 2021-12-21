@@ -1,0 +1,71 @@
+{
+    "ennemis":[
+        {
+            "nom": "le voleur",
+            "force": 3,
+            "vitesse": 5,
+            "vie": 3,
+            "endurance": 5,
+            "description": "Les voleurs sont des déserteurs des millices qui s'entretuent, pour vivre ils pillent les villageois. Ils sont fourbes, rapides, endurants mais manque de force.",
+            "recompenses": {
+                "pieces": 5,
+                "gemmes": 1,
+                "XP": 8
+            },
+            "equipement": {
+                "armes": [
+                    "épée"
+                ],
+                "protection": [
+                    "casque",
+                    "petit bouclier"
+                ]
+            },
+            "images": "https://tse3.mm.bing.net/th?id=OIP.aM7hA4kIDhdREJnyOzz7IgHaHy&pid=Api"
+        },
+        {
+            "nom": "le mage noir",
+            "force": 9,
+            "vitesse": 4,
+            "vie": 8,
+            "endurance": 4,
+            "description": "Les mages noirs sont des mages déchu du grand conseil, ces-derniers passent leurs rage et leurs mal-être en torturant les populations avec la magie",
+            "recompenses": {
+                "pieces": 10,
+                "gemmes": 2,
+                "XP": 12
+            },
+            "equipement": {
+                "armes": [
+                    "baton"
+                ],
+                "protection": [
+                    "aucune"
+                ]
+            },
+            "images": "https://www.auxfeuxdelafete.com/admin/wp-content/uploads/2014/05/sceptre-royal-1914k.jpg"
+        },
+        {
+            "nom": "le géant des cavernes",
+            "force": 12,
+            "vitesse": 1,
+            "vie": 7,
+            "endurance": 6,
+            "description": "Les géants des cavernes sont des forces de la nature qu'il ne faut pas embété. Ils s'énervent très facilement quand ils sont réveillés de leurs sommeils par des voyageurs égarés, ces-derniers finissent écrasés sous les pierres que le géant à lancer.",
+            "recompenses": {
+                "pieces": 12,
+                "gemmes": 3,
+                "XP": 13
+            },
+            "equipement": {
+                "armes": [
+                    "rocher"
+                ],
+                "protection": [
+                    "aucune"
+                ]
+            },
+            "images": "https://tse1.explicit.bing.net/th?id=OIP.ax39zRJcWOVEOMpJ2K3oDwHaFv&pid=Api"
+        }
+    ]
+}
